@@ -1,0 +1,6 @@
+name: 'Aizawl Theological College'
+description: 'Aizawl Theological College'
+author: Lalngilneia
+homepage: 'https://atc.edu.in'
+code: atc
+form: config/fields.yaml
