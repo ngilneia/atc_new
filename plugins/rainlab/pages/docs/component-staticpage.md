@@ -22,7 +22,7 @@ Enables Static Pages to use the layout that includes this component.
 
 ## Default output
 
-The default component partial outputs the rendered contents of the current Static Page. However, it's recommended to just use {% page %} to render the contents of the page instead to match up with how CMS pages are rendered.
+The default component partial outputs the rendered contents of the current Static Page. However, it's recommended to just use `{% page %}` to render the contents of the page instead to match up with how CMS pages are rendered.
 
 ## Default page layout
 
